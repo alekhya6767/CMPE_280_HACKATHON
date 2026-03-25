@@ -1,6 +1,6 @@
 # BookTableBuddy
 
-**BookTableBuddy** is a CMPE 280 team project: an end-to-end restaurant reservation platform (OpenTable-style). Customers search restaurants, view details and maps, and manage bookings. Restaurant managers run dashboards, tables, hours, and photos. Admins approve restaurants and view system analytics.
+**BookTableBuddy** is a CMPE 280 team project: an end-to-end restaurant reservation platform. Customers search restaurants, view details and maps, and manage bookings. Restaurant managers run dashboards, tables, hours, and photos. Admins approve restaurants and view system analytics.
 
 ## Team members
 
